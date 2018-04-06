@@ -20,7 +20,7 @@ lang:="fr">
    
 </head>
 	
-	<!--contenu de la page-->
+	<!--contenu de l page-->
 <body>
 
 	<div id="content">
