@@ -1,0 +1,11 @@
+create database valEtu;
+use valEtu;
+create table ETUDIANT;
+nom varchar (50);
+prenom(50);
+codeEtudiant auto int;
+niveau varchar (50);
+vacation 
+departement varchar (50);
+photo
+
